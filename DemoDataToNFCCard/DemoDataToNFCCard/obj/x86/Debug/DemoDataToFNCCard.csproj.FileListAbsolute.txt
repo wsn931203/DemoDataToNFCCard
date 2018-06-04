@@ -1,0 +1,11 @@
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderDetail.resources
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderList.resources
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OutOrder.resources
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.Properties.Resources.resources
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.csproj.GenerateResource.Cache
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.exe
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.pdb
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.exe
+D:\work\fnc\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.pdb
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.exe
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.pdb

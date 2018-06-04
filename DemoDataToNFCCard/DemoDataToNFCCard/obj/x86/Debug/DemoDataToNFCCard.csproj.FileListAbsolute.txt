@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.exe
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.pdb
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderDetail.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderList.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OutOrder.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.exe
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.pdb
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\WindowsFormsApplication1.NFCCardForm.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.exe
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.pdb
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.exe
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.pdb
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\WindowsFormsApplication1.NFCCardForm.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderDetail.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OrderList.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.OutOrder.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csproj.GenerateResource.Cache
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.exe
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.pdb
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.exe
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\bin\Debug\DemoDataToFNCCard.pdb
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csprojResolveAssemblyReference.cache
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\WindowsFormsApplication1.NFCCardForm.resources
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToFNCCard.Properties.Resources.resources
+D:\练习项目\DemoDataToFNCCard 05-31（完整）\DemoDataToFNCCard\DemoDataToFNCCard\DemoDataToFNCCard\obj\x86\Debug\DemoDataToNFCCard.csproj.GenerateResource.Cache
